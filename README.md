@@ -8,3 +8,5 @@ Je souhaite envoyer des messages à un ou plusieurs utilisateurs ciblés.
 - Je souhaite pouvoir paramétrer la durée de mon historique.
 - Je souhaite pouvoir filtrer les messages par date ou par émetteur.
 - Je souhaite pouvoir me déconnecter de l'interface pour ne plus recevoir de nouveaux messages.
+- Je souhaite qu'à ma nouvelle connexion, les messages envoyés précédemment soient récupérés.
+- 
